@@ -11,7 +11,7 @@ bot.start((ctx) => {
       { caption: "📚 Educational use only.\nSuggested Menu — Tier Breakdown 🍃" }
     );
   } else {
-    ctx.reply("Welcome to the Florist Bot 🌿\nTap /menu or click [View Menu](https://t.me/OGF1_Bot?start=menu)");
+    ctx.reply("Welcome to the OG Florist Bot 🌿\nTap /menu or click [View Menu](https://t.me/OGF1_Bot?start=menu)");
   }
 });
 
